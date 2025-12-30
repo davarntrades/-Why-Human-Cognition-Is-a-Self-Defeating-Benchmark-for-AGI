@@ -253,7 +253,7 @@ For licensing, institutional collaboration, or regulatory correspondence:
 
 **Davarn Morrison**  
 Founder — The Alignment Epoch™  
-Email: *(add your preferred contact email here)*
+Email: *(davarn.trades@gmail.com)*
 
 ---
 
