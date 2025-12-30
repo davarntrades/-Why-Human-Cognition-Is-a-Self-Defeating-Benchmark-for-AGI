@@ -185,9 +185,10 @@ If AGI is benchmarked against human cognition:
 
 A system that updates only after failure **cannot serve as the benchmark for general intelligence**.
 
+This is why intelligence must be benchmarked against **structural stability and falsifiability**, not human intuition.
+
 ---
 
-This is why intelligence must be benchmarked against **structural stability and falsifiability**, not human intuition.
 ### Structural Reframing
 
 GuardianOS™ does not attempt to emulate human cognition.
